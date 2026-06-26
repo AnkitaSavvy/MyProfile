@@ -1,175 +1,198 @@
-# Hi 👋, I'm Ankita Shrivastava
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<h3 align="center">
-QA Automation Engineer | Playwright | Selenium | Java | TypeScript
-</h3>
+# <p align="center">🚀 QA Automation Engineer Portfolio</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+Automation+Expert;Selenium+%7C+Java+%7C+TypeScript;API+Automation+Testing;Always+Learning+New+Technologies+🚀" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-* 💼 QA Automation Engineer
-* 🚀 Working with **Playwright**, **Selenium**, **Java**, **TypeScript**
-* 🌱 Currently learning **Advanced Playwright**, **CI/CD**, and **API Automation**
-* 🧪 Passionate about building scalable automation frameworks
-* 💬 Ask me about:
-
-  * Playwright
-  * Selenium
-  * Java
-  * TypeScript
-  * REST Assured
-  * TestNG
-  * Git
-  * Jenkins
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,js" />
-</p>
-
-### Automation & Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,postman" />
-<img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-E53935?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20Assured-009688?style=for-the-badge"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,vscode,idea,eclipse,mysql" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 Playwright Automation Framework
-
-✔ Page Object Model
-
-✔ Fixtures
-
-✔ Parallel Execution
-
-✔ Retry Mechanism
-
-✔ HTML Reports
-
-✔ Screenshots
-
-✔ Data Driven Testing
-
----
-
-### 🎯 Selenium Java Framework
-
-✔ Java
-
-✔ Selenium
-
-✔ TestNG
-
-✔ Maven
-
-✔ Page Object Model
-
----
-
-### 🎯 API Automation
-
-✔ REST Assured
-
-✔ Authentication
-
-✔ JSON Parsing
-
-✔ Assertions
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Ankita%20Shrivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%7C%20Selenium%20%7C%20Java&descAlignY=58"/>
 </p>
 
 <p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Reliable+Automation+Frameworks;Playwright+%7C+Selenium+%7C+Java+%7C+TypeScript;API+Automation+%7C+CI%2FCD;Automating+Quality+One+Test+at+a+Time+🚀"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 👩‍💻 About Me
+
+```text
+👩 Name            : Ankita Shrivastava
+💼 Role            : QA Automation Engineer
+🧪 Experience      : UI & API Automation
+🎭 Framework       : Playwright & Selenium
+💻 Language        : Java | TypeScript | JavaScript
+📍 Focus           : Scalable Test Automation
+🌱 Learning        : AI in Testing • GitHub Actions • Docker
+```
+
+---
+
+# 🧪 QA Automation Toolkit
+
+| Category        | Technologies                    |
+| --------------- | ------------------------------- |
+| Automation      | Playwright • Selenium WebDriver |
+| Programming     | Java • TypeScript • JavaScript  |
+| API Testing     | REST Assured • Postman          |
+| Build Tools     | Maven                           |
+| CI/CD           | Jenkins • GitHub Actions        |
+| Version Control | Git • GitHub                    |
+| Database        | MySQL                           |
+| IDE             | IntelliJ IDEA • VS Code         |
+
+---
+
+# ⚙️ Automation Workflow
+
+```text
+Requirement Analysis
+        │
+        ▼
+Test Planning
+        │
+        ▼
+Test Case Design
+        │
+        ▼
+Page Object Model
+        │
+        ▼
+Automation Scripts
+        │
+        ▼
+Parallel Execution
+        │
+        ▼
+CI/CD Pipeline
+        │
+        ▼
+HTML Reports
+        │
+        ▼
+Bug Reporting
+```
+
+---
+
+# 🎯 Automation Expertise
+
+✅ UI Automation
+
+✅ API Automation
+
+✅ Cross Browser Testing
+
+✅ Smoke Testing
+
+✅ Regression Testing
+
+✅ Functional Testing
+
+✅ End-to-End Testing
+
+✅ Page Object Model (POM)
+
+✅ Data Driven Framework
+
+✅ Parallel Execution
+
+✅ Git Workflow
+
+✅ Jenkins Integration
+
+---
+
+# 🚀 Featured Projects
+
+### 🎭 Playwright Automation Framework
+
+* Page Object Model
+* Fixtures
+* Retry Mechanism
+* Parallel Execution
+* Screenshots
+* HTML Reports
+* Utility Functions
+
+---
+
+### 🕸 Selenium Java Framework
+
+* Selenium WebDriver
+* Java
+* TestNG
+* Maven
+* Data Driven Testing
+
+---
+
+### 🔗 API Automation
+
+* REST Assured
+* Authentication
+* JSON Validation
+* Response Assertions
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitaSavvy&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSavvy&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaSavvy&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitaSavvy&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophy
 
-> **"Automating Quality, One Test at a Time."** 🚀
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnkitaSavvy&theme=algolia&row=1&column=7"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 💼 Currently Working On
 
-### ⭐ Thanks for visiting my profile!
+🚀 Playwright Automation Framework
 
-If you like my work, don't forget to ⭐ my repositories.
+🧪 API Automation
 
-</div>
+⚙️ Framework Design
+
+🤖 AI Assisted Testing
+
+☁️ GitHub Actions
+
+---
+
+# 🌐 Connect
+
+* 💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
+* 📧 Email : [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+
+---
+
+<p align="center">
+
+### 💙 "Quality is never an accident. It is always the result of intelligent automation."
+
+</p>
