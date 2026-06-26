@@ -1,111 +1,86 @@
-# MyProfile
-#Config files for my GitHub profile.
-```md
-<h1 align="center">Hi 👋, I'm Ankita Shrivastava</h1>
+# Hi 👋, I'm Ankita Shrivastava
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <h3 align="center">
-QA Automation Engineer | Playwright | Selenium | Java | TypeScript | API Testing
+QA Automation Engineer | Playwright | Selenium | Java | TypeScript
 </h3>
 
 <p align="center">
-Passionate about building reliable automation frameworks and improving software quality through modern testing practices.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+Automation+Expert;Selenium+%7C+Java+%7C+TypeScript;API+Automation+Testing;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 💼 QA Automation Engineer
-- 🌱 Currently learning **Advanced Playwright, TypeScript, API Automation & CI/CD**
-- 🔭 Working on Automation Frameworks using **Playwright**
-- 💬 Ask me about
-  - Playwright
-  - Selenium
-  - Java
-  - TypeScript
-  - API Testing
-  - TestNG
-  - Maven
-  - Git
-  - Jenkins
-- 🎯 Goal: Become an SDET and contribute to scalable automation frameworks.
-- ⚡ Fun Fact: I enjoy solving automation challenges and learning new testing tools.
+* 💼 QA Automation Engineer
+* 🚀 Working with **Playwright**, **Selenium**, **Java**, **TypeScript**
+* 🌱 Currently learning **Advanced Playwright**, **CI/CD**, and **API Automation**
+* 🧪 Passionate about building scalable automation frameworks
+* 💬 Ask me about:
 
----
-
-# 🚀 Tech Stack
-
-## Programming Languages
-
-- Java
-- TypeScript
-- JavaScript
-
-## Automation
-
-- Playwright
-- Selenium WebDriver
-
-## API Testing
-
-- REST Assured
-- Postman
-
-## Testing Frameworks
-
-- TestNG
-- JUnit
-
-## Build Tools
-
-- Maven
-- Gradle
-
-## Version Control
-
-- Git
-- GitHub
-
-## CI/CD
-
-- Jenkins
-- GitHub Actions (Learning)
-
-## Database
-
-- MySQL
-
-## IDEs
-
-- IntelliJ IDEA
-- VS Code
-- Eclipse
+  * Playwright
+  * Selenium
+  * Java
+  * TypeScript
+  * REST Assured
+  * TestNG
+  * Git
+  * Jenkins
 
 ---
 
-# 📂 Featured Projects
+## 🛠 Tech Stack
 
-### Playwright Automation Framework
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js" />
+</p>
+
+### Automation & Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,postman" />
+<img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-E53935?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20Assured-009688?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,vscode,idea,eclipse,mysql" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Playwright Automation Framework
 
 ✔ Page Object Model
 
 ✔ Fixtures
 
-✔ Utility Classes
-
-✔ Data Driven Testing
-
 ✔ Parallel Execution
+
+✔ Retry Mechanism
 
 ✔ HTML Reports
 
 ✔ Screenshots
 
-✔ Retry Logic
+✔ Data Driven Testing
 
 ---
 
-### Selenium Java Framework
+### 🎯 Selenium Java Framework
 
 ✔ Java
 
@@ -117,82 +92,84 @@ Passionate about building reliable automation frameworks and improving software 
 
 ✔ Page Object Model
 
-✔ Data Driven Framework
-
 ---
 
-### API Automation
+### 🎯 API Automation
 
 ✔ REST Assured
+
+✔ Authentication
 
 ✔ JSON Parsing
 
 ✔ Assertions
 
-✔ Authentication
-
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📈 Profile Views
+## 🌐 Connect With Me
 
-<p align="center">
+<p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 💡 Quote
 
-📧 Email: your-email@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/your-link
-
-🌐 Portfolio:
-Coming Soon
+> **"Automating Quality, One Test at a Time."** 🚀
 
 ---
 
-# 💡 Quote
+<div align="center">
 
-> "Quality is never an accident; it is always the result of intelligent effort."
+### ⭐ Thanks for visiting my profile!
 
----
+If you like my work, don't forget to ⭐ my repositories.
 
-⭐ If you like my work, don't forget to Star my repositories!
-```
-
+</div>
