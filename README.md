@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Ankita%20Shrivastava&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%7C%20Selenium%20%7C%20Java&descAlignY=58"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Reliable+Automation+Frameworks;Playwright+%7C+Selenium+%7C+Java+%7C+TypeScript;API+Automation+%7C+CI%2FCD;Automating+Quality+One+Test+at+a+Time+🚀"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
@@ -17,7 +13,7 @@
 💼 Role            : QA Automation Engineer
 🧪 Experience      : UI & API Automation
 🎭 Framework       : Playwright & Selenium
-💻 Language        : Java | TypeScript | JavaScript
+💻 Language        : TypeScript | JavaScript |Java 
 📍 Focus           : Scalable Test Automation
 🌱 Learning        : AI in Testing • GitHub Actions • Docker
 ```
@@ -29,13 +25,13 @@
 | Category        | Technologies                    |
 | --------------- | ------------------------------- |
 | Automation      | Playwright • Selenium WebDriver |
-| Programming     | Java • TypeScript • JavaScript  |
+| Programming     | TypeScript • JavaScript • Java  |
 | API Testing     | REST Assured • Postman          |
 | Build Tools     | Maven                           |
 | CI/CD           | Jenkins • GitHub Actions        |
 | Version Control | Git • GitHub                    |
 | Database        | MySQL                           |
-| IDE             | IntelliJ IDEA • VS Code         |
+| IDE             | Eclipse • VS Code               |
 
 ---
 
@@ -160,16 +156,6 @@ Bug Reporting
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnkitaSavvy&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
 # 💼 Currently Working On
 
 🚀 Playwright Automation Framework
@@ -186,8 +172,8 @@ Bug Reporting
 
 # 🌐 Connect
 
-* 💼 LinkedIn : https://linkedin.com/in/YOUR-LINKEDIN
-* 📧 Email : [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+* 💼 LinkedIn : (https://www.linkedin.com/in/ankita-shrivastava-7032b8151/)
+* 📧 Email : ankitashrivastava2210@gmail.com
 
 ---
 
