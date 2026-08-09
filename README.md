@@ -132,17 +132,13 @@ Bug Reporting
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkitaSavvy&show_icons=true&theme=tokyonight"/>
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitaSavvy&theme=tokyonight"/>
 
 </p>
 
-<p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaSavvy&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
